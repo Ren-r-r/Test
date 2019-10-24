@@ -6,5 +6,7 @@ public class Print {
         System.out.print("hhhhhhhhh");
 
         System.out.print("master");
+
+        System.out.print("dev");
     }
 }
